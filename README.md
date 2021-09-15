@@ -1,6 +1,20 @@
 # Hackintosh-OpenCore-Acer-Aspire-5
 Hackintosh made in 2021 with OpenCore running macOS Big Sur
 
+## Working
+```
+Speakers ✅
+Bluetooth✅
+WiFi ❌ (have to change to Broadcom BCM94360NG or other)
+Headphone Jack ❌ and ✅ (Will work if you put the balance on left or right in Sound Preferences > Output)
+HDMI ✅ 
+Webcam✅
+Trackpad ✅
+Boot/Restart✅
+
+```
+
+
 ## Specs
 ```
 Model: Acer Aspire 5 A515-54-57EN
