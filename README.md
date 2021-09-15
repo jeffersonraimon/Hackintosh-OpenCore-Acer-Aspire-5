@@ -21,6 +21,32 @@ Ethernet: Gigabit Ethernet
 WiFi Card: Fenvi Chipset: Broadcom BCM94360NG
 
 ```
+## BIOS Settings
+
+### Disable
+
+```
+* Fast Boot
+* Secure Boot
+* Serial/COM Port
+* Intel Platform Trust
+* CSM
+* Intel SGX
+* Intel Platform Trust
+* CFG Lock
+
+```
+### Enable
+
+```
+* VT-d
+* Above 4G decoding
+* Internal Graphics - Option: Enabled
+* XHCI Hand-off
+* OS type: Windows 8.1/10 UEFI Mode
+* SATA Mode: AHCI  ( Hit F2 enter bios, select go to main tab of BIOS then hit Ctrl+S to enable hidden menu change Optane with RAID to AHCI and Save setting end exit.)
+
+
 ## IMPORTANT!!! - Change the SMBIOS
 
 After download my EFI, plz change SMBIOS [How to do here](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html#platforminfo)
