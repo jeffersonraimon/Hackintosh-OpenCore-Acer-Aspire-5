@@ -45,7 +45,7 @@ WiFi Card: Fenvi Chipset: Broadcom BCM94360NG
 * XHCI Hand-off
 * OS type: Windows 8.1/10 UEFI Mode
 * SATA Mode: AHCI  ( Hit F2 enter bios, select go to main tab of BIOS then hit Ctrl+S to enable hidden menu change Optane with RAID to AHCI and Save setting end exit.)
-
+```
 
 ## IMPORTANT!!! - Change the SMBIOS
 
