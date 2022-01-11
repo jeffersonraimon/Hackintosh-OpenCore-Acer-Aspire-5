@@ -6,7 +6,7 @@ Hackintosh made in 2021 with OpenCore running macOS Monterey
 Speakers ✅
 Bluetooth✅
 WiFi  (Broadcom BCM94360NG) ✅ 
-Headphone Jack ✅ 
+Headphone Jack ❌ and ✅ (Will work if you put the balance on left or right in Sound Preferences > Output)
 HDMI ✅ 
 Webcam✅
 Trackpad ✅
