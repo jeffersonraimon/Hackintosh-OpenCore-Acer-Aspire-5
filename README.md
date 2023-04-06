@@ -23,7 +23,7 @@ Processor: Intel Core i5 10210U (4 core, 8 Threat) 1.60Ghz - 4.2Ghz
 
 Ram: 20 GB DDR4 
 
-SSD M.2 NVMe: Kingston 256 GB (Zorin OS)
+SSD M.2 NVMe: Kingston 256 GB (Windows 11)
 SSD 1: Kingston 240Gb (macOS Monterey)
 
 Graphics: Intel UHD GraphicsG1
