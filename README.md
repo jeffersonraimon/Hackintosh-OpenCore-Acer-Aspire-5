@@ -1,5 +1,5 @@
 # Hackintosh-OpenCore-Acer-Aspire-5
-Hackintosh made in 2021 with OpenCore running macOS Monterey
+Hackintosh with OpenCore running macOS Ventura (2024)
 
 ## Working
 ```
@@ -24,7 +24,7 @@ Processor: Intel Core i5 10210U (4 core, 8 Threat) 1.60Ghz - 4.2Ghz
 Ram: 20 GB DDR4 
 
 SSD M.2 NVMe: Kingston 256 GB (Windows 11)
-SSD 1: Kingston 240Gb (macOS Monterey)
+SSD 1: Kingston 240Gb (macOS Ventura)
 
 Graphics: Intel UHD GraphicsG1
 
