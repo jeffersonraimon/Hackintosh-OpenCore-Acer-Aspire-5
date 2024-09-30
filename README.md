@@ -9,7 +9,7 @@ WiFi  (Broadcom BCM94360NG) ✅
 Headphone Jack ❌ and ✅ (Will work if you put the balance on left or right in Sound Preferences > Output)
 HDMI ✅ 
 Webcam✅
-Trackpad ✅
+Trackpad ✅ (if your trackpad don't work with the kexts on EFI folder, you can try with the kexts inside Voodoo_KEXTS.zip (thanks Willie Assis)).
 Boot/Restart✅
 
 ```
